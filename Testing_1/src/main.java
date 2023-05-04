@@ -8,6 +8,10 @@
  */
 public class main {
 
+	private void FizzBuzz(int number)
+	{
+		
+	}
 	/**
 	 * @param args
 	 */
