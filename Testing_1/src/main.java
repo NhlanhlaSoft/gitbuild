@@ -3,13 +3,18 @@
  */
 
 /**
- * @author Nhlan
+ * @author Nhlanhla
  *
  */
 public class main {
 
+	/**
+	 * 
+	 * @param number
+	 */
 	private static void FizzBuzz(int number)
 	{
+		//checking if the number if divisible by 5 and 3
 		if(number%15==0 && number%3==0)
 		{
 			System.out.println("Fizz Buzz");
